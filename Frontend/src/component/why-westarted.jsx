@@ -83,7 +83,7 @@ const WhyWeStartedSection = () => {
                   lineHeight: "28px",
                 }}
               >
-                At Mishco Lifescience LLP, we are committed to making
+                At Cure & care medicines, we are committed to making
                 high-quality healthcare affordable, reliable, and accessible
                 worldwide. As a progressive pharmaceutical company, we develop,
                 market, and export trusted branded generics that meet strict

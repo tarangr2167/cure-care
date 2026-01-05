@@ -36,7 +36,7 @@ function QualityRDSection() {
               <h3 className="fw-bold text-dark mb-4">Global Standards, Advanced Research & Absolute Commitment to Quality</h3>
 
               <p className="mb-4 text-muted">
-                At Mishco Lifescience LLP, quality isn’t just a process it is the core principle that guides every product we manufacture and every partnership we build. Our formulations are produced in facilities that comply with WHO-GMP, ISO, and stringent global regulatory standards, ensuring uncompromised safety, efficacy, and consistency across all markets.
+                At Cure & care medicines, quality isn’t just a process it is the core principle that guides every product we manufacture and every partnership we build. Our formulations are produced in facilities that comply with WHO-GMP, ISO, and stringent global regulatory standards, ensuring uncompromised safety, efficacy, and consistency across all markets.
               </p>
 
               <p className="mb-4 text-muted">

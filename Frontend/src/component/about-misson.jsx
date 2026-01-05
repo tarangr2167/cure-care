@@ -41,16 +41,16 @@ const AboutMissionCard = () => {
             viewport={{ once: true }}
           >
             <h2 className="text-uppercase fs-6 fw-semibold text-secondary mb-3">
-              Mishco Lifescience LLP: Trusted Leader in Global Branded Generics
+              Cure & care medicines: Trusted Leader in Global Branded Generics
             </h2>
 
             <h3 className="fw-bold text-dark lh-sm mb-3">
-              Mishco Lifescience LLP: Dynamic Global Pharmaceutical Company
+              Cure & care medicines: Dynamic Global Pharmaceutical Company
             </h3>
 
             <p className="text-muted lead mb-4 text-md-justify ">
               With a legacy built on quality, integrity, and scientific
-              excellence, Mishco Lifescience LLP is a trusted Ahmedabad-based
+              excellence, Cure & care medicines is a trusted Ahmedabad-based
               pharmaceutical company specializing in the development, marketing,
               and export of branded generics and nutraceuticals. Committed to
               making healthcare affordable and accessible worldwide, we deliver

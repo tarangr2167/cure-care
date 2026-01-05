@@ -86,7 +86,7 @@ const TeamBlogSection = () => {
             className="text-muted mt-3"
             style={{ fontFamily: "Inter, sans-serif" }}
           >
-            Mishco Lifescience LLP was founded with one purpose: to make quality
+            Cure & care medicines was founded with one purpose: to make quality
             healthcare accessible to every individual, everywhere. What began as
             a domestic pharmaceutical effort has grown into a trusted healthcare
             partner for doctors, distributors, and global importers across
@@ -138,7 +138,7 @@ const TeamBlogSection = () => {
             className="text-muted mt-3"
             style={{ fontFamily: "Inter, sans-serif" }}
           >
-            At Mishco Lifescience LLP, we offer an extensive and continuously
+            At Cure & care medicines, we offer an extensive and continuously
             expanding range of high-quality branded generic medicines and
             nutraceuticals across key therapeutic segments including
             Anti-infectives, Gastrointestinal Care, Cardiac & Diabetic Care,
@@ -279,7 +279,7 @@ const TeamBlogSection = () => {
             className="text-muted mt-3"
             style={{ fontFamily: "Inter, sans-serif" }}
           >
-            At the heart of Mishco Lifescience LLP lie unwavering core values
+            At the heart of Cure & care medicines lie unwavering core values
             that define everything we do: uncompromised quality in every
             formulation, integrity in every decision, innovation driven by
             science, trust built through transparent partnerships, consistency
